@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/sheroz/Projects/LearnCsharp/RazorPizzeria/RazorPizzeria.csproj": {}
+    "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\RazorPizzeria\\RazorPizzeria.csproj": {}
   },
   "projects": {
-    "/home/sheroz/Projects/LearnCsharp/RazorPizzeria/RazorPizzeria.csproj": {
+    "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\RazorPizzeria\\RazorPizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sheroz/Projects/LearnCsharp/RazorPizzeria/RazorPizzeria.csproj",
+        "projectUniqueName": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\RazorPizzeria\\RazorPizzeria.csproj",
         "projectName": "RazorPizzeria",
-        "projectPath": "/home/sheroz/Projects/LearnCsharp/RazorPizzeria/RazorPizzeria.csproj",
-        "packagesPath": "/home/sheroz/.nuget/packages/",
-        "outputPath": "/home/sheroz/Projects/LearnCsharp/RazorPizzeria/obj/",
+        "projectPath": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\RazorPizzeria\\RazorPizzeria.csproj",
+        "packagesPath": "C:\\Users\\Sheroz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\RazorPizzeria\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Sheroz\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/sheroz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Sheroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sheroz\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,23 +46,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
@@ -65,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
