@@ -7,15 +7,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<h1 align="left">Identity App</h1>
+<h1 align="left">Razor Pizzeria</h1>
 
 <p>
-  Сервис для обработки счетов. С поддержкой разных уровней доступа. С возможностью регистрации новых пользователей, настройки аккаунта, и многое другое.
+  Сервис для заказа пиццы и его обслуживания. Есть возможность указать состав пиццы. Есть страница для просмотра заказов. База данных создана в SQL Server с помощью EF Core.
 </p>
-
-<!-- PROJECT LOGO -->
-<br />
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -168,7 +164,7 @@ WhatsApp: +992988580300
 [license-url]: https://github.com/SherozPuladov/IdentityApp/blob/master/LICENCE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: IdentityAppImages/Home-page-IdentityApp.png
+[product-screenshot]: Photos\Pizzas-RazorPizzeria.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
