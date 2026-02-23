@@ -112,13 +112,9 @@
 <!-- CONTACT -->
 ## Контакты
 
-Sheroz Umidovich Puladov:  sherozpulatov3@gmail.com
+Sheroz Puladov:  sherozpulatov3@gmail.com
 
 Ссылка на проект: [https://github.com/SherozPuladov/IdentityApp](https://github.com/SherozPuladov/IdentityApp)
-
-Telegram: +992922225248
-
-WhatsApp: +992988580300
 
 
 <p align="right">(<a href="#readme-top">вернуться к началу</a>)</p>
